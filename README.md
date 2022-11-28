@@ -1,2 +1,2 @@
 # GITprueba
-primera prueba del video
+prueba del video
