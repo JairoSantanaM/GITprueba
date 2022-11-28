@@ -1,1 +1,1 @@
-console.log("consola de app");
+console.log("de app");
