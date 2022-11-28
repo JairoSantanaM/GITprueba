@@ -1,1 +1,1 @@
-console.log("me falto este mensaje");
+console.log("consola de app");
